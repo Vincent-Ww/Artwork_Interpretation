@@ -1,0 +1,583 @@
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 9.961370058357716 
+the 0th iteration, Train loss 9.920082992977566 
+the 140th iteration, Val loss 6.710788808763027 
+the 140th iteration, Train loss 6.7115651071071625 
+the 280th iteration, Val loss 5.475650481879711 
+the 280th iteration, Train loss 5.452358495306085 
+the 420th iteration, Val loss 5.054646745324135 
+the 420th iteration, Train loss 4.994581151891638 
+Epoch 0, Val loss 5.041303250938654 
+Epoch 0, Training loss 4.973968472745684 
++++++++++++++++++the 1th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 5.042552195489407 
+the 0th iteration, Train loss 4.9742890375631825 
+the 140th iteration, Val loss 4.698457680642605 
+the 140th iteration, Train loss 4.58872730422903 
+the 280th iteration, Val loss 4.488404773175716 
+the 280th iteration, Train loss 4.310127039198522 
+the 420th iteration, Val loss 4.402817774564028 
+the 420th iteration, Train loss 4.150480451959151 
+Epoch 1, Val loss 4.4089278019964695 
+Epoch 1, Training loss 4.147679296908556 
++++++++++++++++++the 2th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.410870797932148 
+the 0th iteration, Train loss 4.148583318900179 
+the 140th iteration, Val loss 4.309734225273132 
+the 140th iteration, Train loss 3.9829850842555365 
+the 280th iteration, Val loss 4.256503019481897 
+the 280th iteration, Train loss 3.8582079068378166 
+the 420th iteration, Val loss 4.28590751439333 
+the 420th iteration, Train loss 3.7845703418608063 
+Epoch 2, Val loss 4.300224184989929 
+Epoch 2, Training loss 3.7900310506423316 
++++++++++++++++++the 3th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.302129779011011 
+the 0th iteration, Train loss 3.7907037012003086 
+the 140th iteration, Val loss 4.2258125357329845 
+the 140th iteration, Train loss 3.6396303513535746 
+the 280th iteration, Val loss 4.197384767234325 
+the 280th iteration, Train loss 3.5324015898836985 
+the 420th iteration, Val loss 4.245800513774157 
+the 420th iteration, Train loss 3.464075137619619 
+Epoch 3, Val loss 4.246797576546669 
+Epoch 3, Training loss 3.451809850555879 
++++++++++++++++++the 4th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.24625201895833 
+the 0th iteration, Train loss 3.4501284852072045 
+the 140th iteration, Val loss 4.19148077070713 
+the 140th iteration, Train loss 3.309703063081812 
+the 280th iteration, Val loss 4.155842252075672 
+the 280th iteration, Train loss 3.200917482652046 
+the 420th iteration, Val loss 4.246947377920151 
+the 420th iteration, Train loss 3.1421396235624948 
+Epoch 4, Val loss 4.262258671224117 
+Epoch 4, Training loss 3.140823878623821 
++++++++++++++++++the 5th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.265269078314304 
+the 0th iteration, Train loss 3.140721994417685 
+the 140th iteration, Val loss 4.1892556212842464 
+the 140th iteration, Train loss 2.9916815835016743 
+the 280th iteration, Val loss 4.199756782501936 
+the 280th iteration, Train loss 2.8962876760849245 
+the 420th iteration, Val loss 4.261884488165379 
+the 420th iteration, Train loss 2.801931226970973 
+Epoch 5, Val loss 4.286260575056076 
+Epoch 5, Training loss 2.7998265105265157 
++++++++++++++++++the 6th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.288366377353668 
+the 0th iteration, Train loss 2.79901161265594 
+the 140th iteration, Val loss 4.2213460095226765 
+the 140th iteration, Train loss 2.6599413829821126 
+the 280th iteration, Val loss 4.2222479693591595 
+the 280th iteration, Train loss 2.569389652046892 
+the 420th iteration, Val loss 4.300031736493111 
+the 420th iteration, Train loss 2.476858919141469 
+Epoch 6, Val loss 4.3047324270009995 
+Epoch 6, Training loss 2.460748745887368 
++++++++++++++++++the 7th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.30764115601778 
+the 0th iteration, Train loss 2.4589899016751184 
+the 140th iteration, Val loss 4.298008408397436 
+the 140th iteration, Train loss 2.345067255474903 
+the 280th iteration, Val loss 4.336897064000368 
+the 280th iteration, Train loss 2.2605927365797536 
+the 420th iteration, Val loss 4.422660458832979 
+the 420th iteration, Train loss 2.1567904918834016 
+Epoch 7, Val loss 4.425501890480518 
+Epoch 7, Training loss 2.1618018518719406 
++++++++++++++++++the 8th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.4273013062775135 
+the 0th iteration, Train loss 2.1615033442223512 
+the 140th iteration, Val loss 4.4176319912076 
+the 140th iteration, Train loss 2.046482270790471 
+the 280th iteration, Val loss 4.432430945336819 
+the 280th iteration, Train loss 1.9734338290161557 
+the 420th iteration, Val loss 4.536024805158377 
+the 420th iteration, Train loss 1.8732968581219513 
+Epoch 8, Val loss 4.552023809403181 
+Epoch 8, Training loss 1.863079353891037 
++++++++++++++++++the 9th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.55442388728261 
+the 0th iteration, Train loss 1.8598568796835564 
+the 140th iteration, Val loss 4.534880083054304 
+the 140th iteration, Train loss 1.7481434577041202 
+the 280th iteration, Val loss 4.531095806509256 
+the 280th iteration, Train loss 1.6928954129969631 
+the 420th iteration, Val loss 4.719996768981218 
+the 420th iteration, Train loss 1.612232132918305 
+Epoch 9, Val loss 4.68861061707139 
+Epoch 9, Training loss 1.5826955980586785 
++++++++++++++++++the 10th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.69600286334753 
+the 0th iteration, Train loss 1.588313401711208 
+the 140th iteration, Val loss 4.703774403780699 
+the 140th iteration, Train loss 1.5145569933509384 
+the 280th iteration, Val loss 4.707284726202488 
+the 280th iteration, Train loss 1.4511108937914725 
+the 420th iteration, Val loss 4.890128590166569 
+the 420th iteration, Train loss 1.4178344332785517 
+Epoch 10, Val loss 4.854596313089132 
+Epoch 10, Training loss 1.3970148634441473 
++++++++++++++++++the 11th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.864224806427956 
+the 0th iteration, Train loss 1.3995856942126044 
+the 140th iteration, Val loss 4.89033230394125 
+the 140th iteration, Train loss 1.343045021786734 
+the 280th iteration, Val loss 5.162980530411005 
+the 280th iteration, Train loss 1.4509707927289937 
+the 420th iteration, Val loss 4.9897821843624115 
+the 420th iteration, Train loss 1.2006284649725314 
+Epoch 11, Val loss 5.047071345150471 
+Epoch 11, Training loss 1.2094952370971441 
+
+
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+Epoch 0, Val loss 5.041303250938654 
+Epoch 0, Training loss 4.973968472745684 
++++++++++++++++++the 1th Epoch+++++++++++++++++++
+Epoch 1, Val loss 4.4089278019964695 
+Epoch 1, Training loss 4.147679296908556 
++++++++++++++++++the 2th Epoch+++++++++++++++++++
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+Epoch 0, Val loss 5.041303250938654 
+Epoch 0, Training loss 4.973968472745684 
++++++++++++++++++the 1th Epoch+++++++++++++++++++
+Epoch 1, Val loss 4.4089278019964695 
+Epoch 1, Training loss 4.147679296908556 
++++++++++++++++++the 2th Epoch+++++++++++++++++++
+Epoch 2, Val loss 4.300224184989929 
+Epoch 2, Training loss 3.7900310506423316 
++++++++++++++++++the 3th Epoch+++++++++++++++++++
+Epoch 3, Val loss 4.246797576546669 
+Epoch 3, Training loss 3.451809850555879 
++++++++++++++++++the 4th Epoch+++++++++++++++++++
+Epoch 4, Val loss 4.262258671224117 
+Epoch 4, Training loss 3.140823878623821 
++++++++++++++++++the 5th Epoch+++++++++++++++++++
+Epoch 5, Val loss 4.286260575056076 
+Epoch 5, Training loss 2.7998265105265157 
++++++++++++++++++the 6th Epoch+++++++++++++++++++
+Epoch 6, Val loss 4.3047324270009995 
+Epoch 6, Training loss 2.460748745887368 
++++++++++++++++++the 7th Epoch+++++++++++++++++++
+Epoch 7, Val loss 4.425501890480518 
+Epoch 7, Training loss 2.1618018518719406 
++++++++++++++++++the 8th Epoch+++++++++++++++++++
+Epoch 8, Val loss 4.552023809403181 
+Epoch 8, Training loss 1.863079353891037 
+Mon Jan 10 00:37:33 2022+++++++++++++++++the 0th Epoch+++++++++++++++++++
+Epoch 0, Val loss 9.736269918913694 
+Epoch 0, Training loss 9.751657382044778 
++++++++++++++++++the 1th Epoch+++++++++++++++++++
+Epoch 1, Val loss 9.734404681884136 
+Epoch 1, Training loss 9.74976417413606 
++++++++++++++++++the 2th Epoch+++++++++++++++++++
+Epoch 2, Val loss 9.731624023201539 
+Epoch 2, Training loss 9.746942509367583 
++++++++++++++++++the 3th Epoch+++++++++++++++++++
+Epoch 3, Val loss 9.727913669704161 
+Mon Jan 10 00:43:35 2022
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+
+
+
+Mon Jan 10 00:47:24 2022
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+Epoch 0, Val loss 5.050371386110783 
+Epoch 0, Training loss 4.977589093976551 
+
+
+
+Mon Jan 10 00:49:45 2022
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+Epoch 0, Val loss 5.050371386110783 
+Epoch 0, Training loss 4.977589093976551 
++++++++++++++++++the 1th Epoch+++++++++++++++++++
+Epoch 1, Val loss 4.416428942233324 
+Epoch 1, Training loss 4.152765541164963 
++++++++++++++++++the 2th Epoch+++++++++++++++++++
+Epoch 2, Val loss 4.30957093834877 
+Epoch 2, Training loss 3.794985565322417 
+
+
+# one caption per image
+Mon Jan 10 00:55:03 2022
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 9.959159158170223 
+the 0th iteration, Train loss 9.912349762739959 
+the 140th iteration, Val loss 6.720405258238316 
+the 140th iteration, Train loss 6.71179046564632 
+the 280th iteration, Val loss 5.487093515694141 
+the 280th iteration, Train loss 5.455432389621381 
+the 420th iteration, Val loss 5.064378596842289 
+the 420th iteration, Train loss 4.998612467889433 
+Epoch 0, Val loss 5.050371386110783 
+Epoch 0, Training loss 4.977589093976551 
++++++++++++++++++the 1th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 5.051622364670038 
+the 0th iteration, Train loss 4.977883888615502 
+the 140th iteration, Val loss 4.708819158375263 
+the 140th iteration, Train loss 4.594572552928218 
+the 280th iteration, Val loss 4.499975141137838 
+the 280th iteration, Train loss 4.317038241911818 
+the 420th iteration, Val loss 4.411985274404287 
+the 420th iteration, Train loss 4.156219906829022 
+Epoch 1, Val loss 4.416428942233324 
+Epoch 1, Training loss 4.152765541164963 
++++++++++++++++++the 2th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.418673105537891 
+the 0th iteration, Train loss 4.15384045905537 
+the 140th iteration, Val loss 4.315888177603483 
+the 140th iteration, Train loss 3.986678733869835 
+the 280th iteration, Val loss 4.267787553369999 
+the 280th iteration, Train loss 3.864834879283552 
+the 420th iteration, Val loss 4.295488838106394 
+the 420th iteration, Train loss 3.791797623590187 
+Epoch 2, Val loss 4.30957093834877 
+Epoch 2, Training loss 3.794985565322417 
++++++++++++++++++the 3th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.311660200357437 
+the 0th iteration, Train loss 3.795634495439353 
+the 140th iteration, Val loss 4.239464361220598 
+the 140th iteration, Train loss 3.6460357109705606 
+the 280th iteration, Val loss 4.208010721951723 
+the 280th iteration, Train loss 3.539417537826079 
+the 420th iteration, Val loss 4.262933865189552 
+the 420th iteration, Train loss 3.471916777668176 
+Epoch 3, Val loss 4.258994188159704 
+Epoch 3, Training loss 3.458963797600181 
++++++++++++++++++the 4th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.258830778300762 
+the 0th iteration, Train loss 3.457531544897291 
+the 140th iteration, Val loss 4.204359948635101 
+the 140th iteration, Train loss 3.319400675870754 
+the 280th iteration, Val loss 4.1591384671628475 
+the 280th iteration, Train loss 3.209130898118019 
+the 420th iteration, Val loss 4.250512734055519 
+the 420th iteration, Train loss 3.142313809306533 
+Epoch 4, Val loss 4.283987198024988 
+Epoch 4, Training loss 3.1489218992215617 
++++++++++++++++++the 5th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.287392802536488 
+the 0th iteration, Train loss 3.149096727371216 
+the 140th iteration, Val loss 4.213758736848831 
+the 140th iteration, Train loss 2.998443662568375 
+the 280th iteration, Val loss 4.200539864599705 
+the 280th iteration, Train loss 2.900366780106668 
+the 420th iteration, Val loss 4.2730643004179 
+the 420th iteration, Train loss 2.80201704579371 
+Epoch 5, Val loss 4.293170940130949 
+Epoch 5, Training loss 2.803956986301475 
++++++++++++++++++the 6th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.294542491436005 
+the 0th iteration, Train loss 2.8030660345598504 
+the 140th iteration, Val loss 4.2430796176195145 
+the 140th iteration, Train loss 2.6735508414330305 
+the 280th iteration, Val loss 4.24815496429801 
+the 280th iteration, Train loss 2.576842698234099 
+the 420th iteration, Val loss 4.319108922034502 
+the 420th iteration, Train loss 2.480598485028302 
+Epoch 6, Val loss 4.323199473321438 
+Epoch 6, Training loss 2.4682493441634707 
+
+
+# all captions per image
+Mon Jan 10 01:09:22 2022
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 9.736269918913694 
+the 0th iteration, Train loss 9.751657382044778 
+the 140th iteration, Val loss 6.900677531035905 
+the 140th iteration, Train loss 6.885188891310734 
+the 280th iteration, Val loss 5.678596304863999 
+the 280th iteration, Train loss 5.665628796416191 
+the 420th iteration, Val loss 5.275737499453358 
+the 420th iteration, Train loss 5.250136930462918 
+the 560th iteration, Val loss 5.003181366576362 
+the 560th iteration, Train loss 4.958867239013705 
+the 700th iteration, Val loss 4.8623616166950505 
+the 700th iteration, Train loss 4.792905198068035 
+the 840th iteration, Val loss 4.715758297861237 
+the 840th iteration, Train loss 4.625779694961737 
+the 980th iteration, Val loss 4.655087412018137 
+the 980th iteration, Train loss 4.551393180129827 
+the 1120th iteration, Val loss 4.597410665344946 
+the 1120th iteration, Train loss 4.472820513623796 
+the 1260th iteration, Val loss 4.5642046117291 
+the 1260th iteration, Train loss 4.419544963204131 
+Epoch 0, Val loss 4.549592327825802 
+Epoch 0, Training loss 4.391875071706299 
++++++++++++++++++the 1th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.554921596320634 
+the 0th iteration, Train loss 4.396296373782978 
+the 140th iteration, Val loss 4.50911522526102 
+the 140th iteration, Train loss 4.319007928621665 
+the 280th iteration, Val loss 4.48577241061889 
+the 280th iteration, Train loss 4.284820426135995 
+the 420th iteration, Val loss 4.454793603149886 
+the 420th iteration, Train loss 4.240860262695624 
+the 560th iteration, Val loss 4.404042161617083 
+the 560th iteration, Train loss 4.178889795399268 
+the 700th iteration, Val loss 4.42502213876272 
+the 700th iteration, Train loss 4.175788804845282 
+the 840th iteration, Val loss 4.370307144430495 
+the 840th iteration, Train loss 4.095933433524373 
+the 980th iteration, Val loss 4.365104659316466 
+the 980th iteration, Train loss 4.078571627682222 
+the 1120th iteration, Val loss 4.366748964663634 
+the 1120th iteration, Train loss 4.051773780984017 
+the 1260th iteration, Val loss 4.351272928346064 
+the 1260th iteration, Train loss 4.014316064275736 
+Epoch 1, Val loss 4.385375366997473 
+Epoch 1, Training loss 4.02731663701138 
++++++++++++++++++the 2th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.392623697359538 
+the 0th iteration, Train loss 4.032586334571894 
+the 140th iteration, Val loss 4.369772209334619 
+the 140th iteration, Train loss 3.9788192739987163 
+the 280th iteration, Val loss 4.358338331438832 
+the 280th iteration, Train loss 3.9639623919311835 
+the 420th iteration, Val loss 4.350955888168099 
+the 420th iteration, Train loss 3.9455199769912586 
+the 560th iteration, Val loss 4.322146386215367 
+the 560th iteration, Train loss 3.9053751322340338 
+the 700th iteration, Val loss 4.371318340301514 
+the 700th iteration, Train loss 3.9105567798322562 
+the 840th iteration, Val loss 4.342369706360335 
+the 840th iteration, Train loss 3.854703392996385 
+the 980th iteration, Val loss 4.343489569487031 
+the 980th iteration, Train loss 3.8402446527522787 
+the 1120th iteration, Val loss 4.345461528325818 
+the 1120th iteration, Train loss 3.805458267471881 
+the 1260th iteration, Val loss 4.3480456993751915 
+the 1260th iteration, Train loss 3.7649727780860647 
+Epoch 2, Val loss 4.393779966020093 
+Epoch 2, Training loss 3.7966488253966015 
++++++++++++++++++the 3th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.401358294732792 
+the 0th iteration, Train loss 3.801143214758214 
+the 140th iteration, Val loss 4.378595907663562 
+the 140th iteration, Train loss 3.758341429532443 
+the 280th iteration, Val loss 4.374293542399849 
+the 280th iteration, Train loss 3.760040624843742 
+the 420th iteration, Val loss 4.395099598107879 
+the 420th iteration, Train loss 3.75096475904259 
+the 560th iteration, Val loss 4.355314335872218 
+the 560th iteration, Train loss 3.7108359057076123 
+the 700th iteration, Val loss 4.430264738417163 
+the 700th iteration, Train loss 3.7181700680068213 
+the 840th iteration, Val loss 4.36777200649694 
+the 840th iteration, Train loss 3.6436491233266826 
+the 980th iteration, Val loss 4.3835184008804795 
+the 980th iteration, Train loss 3.635321649796066 
+the 1120th iteration, Val loss 4.384550913093016 
+the 1120th iteration, Train loss 3.616320335135168 
+the 1260th iteration, Val loss 4.413100846034965 
+the 1260th iteration, Train loss 3.5867540227254695 
+Epoch 3, Val loss 4.446981641435132 
+Epoch 3, Training loss 3.604197606314028 
++++++++++++++++++the 4th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.458281870969792 
+the 0th iteration, Train loss 3.610323579596361 
+the 140th iteration, Val loss 4.437645549626694 
+the 140th iteration, Train loss 3.568762528131724 
+the 280th iteration, Val loss 4.414795150461885 
+the 280th iteration, Train loss 3.5585785772293024 
+the 420th iteration, Val loss 4.437786631977435 
+the 420th iteration, Train loss 3.5501083274624436 
+the 560th iteration, Val loss 4.462096028721209 
+the 560th iteration, Train loss 3.560577998616605 
+the 700th iteration, Val loss 4.499516398636336 
+the 700th iteration, Train loss 3.5696483358697364 
+the 840th iteration, Val loss 4.504201510517867 
+the 840th iteration, Train loss 3.5220707932992164 
+the 980th iteration, Val loss 4.464183580015123 
+the 980th iteration, Train loss 3.477729316876859 
+the 1120th iteration, Val loss 4.514708155209256 
+the 1120th iteration, Train loss 3.511690860760803 
+the 1260th iteration, Val loss 4.478008316964218 
+the 1260th iteration, Train loss 3.416937771674148 
+Epoch 4, Val loss 4.528844193084953 
+Epoch 4, Training loss 3.4496096480344542 
++++++++++++++++++the 5th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.542763405239459 
+the 0th iteration, Train loss 3.458162114762704 
+the 140th iteration, Val loss 4.5686584883129475 
+the 140th iteration, Train loss 3.4478131880218017 
+the 280th iteration, Val loss 4.510690262637188 
+the 280th iteration, Train loss 3.426934569205209 
+
+
+
+
+
+
+
+artpedia
+training using whole dataset
+shuffle the training data before training
+Wed Jan 26 23:45:43 2022
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+Epoch 0, Val loss 0.5073259353637696 
+Epoch 0, Training loss 0.07275913763737334 
+reach better loss+++++++++++++++++the 1th Epoch+++++++++++++++++++
+Epoch 1, Val loss 0.5072023868560791 
+Epoch 1, Training loss 0.07075416869011478 
+reach better loss+++++++++++++++++the 2th Epoch+++++++++++++++++++
+Epoch 2, Val loss 0.5070179462432861 
+Epoch 2, Training loss 0.07048242679540662 
+reach better loss+++++++++++++++++the 3th Epoch+++++++++++++++++++
+Epoch 3, Val loss 0.5067721366882324 
+Epoch 3, Training loss 0.07059909295344698 
+reach better loss+++++++++++++++++the 4th Epoch+++++++++++++++++++
+Epoch 4, Val loss 0.506465482711792 
+Epoch 4, Training loss 0.07255220413208008 
+reach better loss+++++++++++++++++the 5th Epoch+++++++++++++++++++
+Epoch 5, Val loss 0.5061007976531983 
+Epoch 5, Training loss 0.07200811220251996 
+reach better loss+++++++++++++++++the 6th Epoch+++++++++++++++++++
+Epoch 6, Val loss 0.5056748390197754 
+Epoch 6, Training loss 0.0701749981313512 
+reach better loss+++++++++++++++++the 7th Epoch+++++++++++++++++++
+Epoch 7, Val loss 0.5051892757415771 
+Epoch 7, Training loss 0.07018678775732068 
+reach better loss+++++++++++++++++the 8th Epoch+++++++++++++++++++
+Epoch 8, Val loss 0.5046435356140136 
+Epoch 8, Training loss 0.07085035849308623 
+reach better loss+++++++++++++++++the 9th Epoch+++++++++++++++++++
+Epoch 9, Val loss 0.5040362358093262 
+Epoch 9, Training loss 0.0698740447776905 
+reach better loss+++++++++++++++++the 10th Epoch+++++++++++++++++++
+Epoch 10, Val loss 0.5033711910247802 
+Epoch 10, Training loss 0.0717980688896732 
+reach better loss
+
+
+artpedia
+training using whole dataset
+shuffle the training data before training
+Wed Jan 26 23:50:02 2022
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 9.845073461532593 
+the 0th iteration, Train loss 9.852046303127123 
+Epoch 0, Val loss 6.525652551651001 
+Epoch 0, Training loss 6.501783986022507 
+reach better loss
++++++++++++++++++the 1th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 6.505764436721802 
+the 0th iteration, Train loss 6.481284483619358 
+Epoch 1, Val loss 5.419724440574646 
+Epoch 1, Training loss 5.38863710389621 
+reach better loss
++++++++++++++++++the 2th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 5.415786361694336 
+the 0th iteration, Train loss 5.38254483886387 
+Epoch 2, Val loss 4.974560928344727 
+Epoch 2, Training loss 4.909215363903322 
+reach better loss
++++++++++++++++++the 3th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.9725120782852175 
+the 0th iteration, Train loss 4.9078185316445175 
+Epoch 3, Val loss 4.697445368766784 
+Epoch 3, Training loss 4.584470562312914 
+reach better loss
++++++++++++++++++the 4th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.694188904762268 
+the 0th iteration, Train loss 4.585415660471156 
+Epoch 4, Val loss 4.543353033065796 
+Epoch 4, Training loss 4.380251642586528 
+reach better loss
++++++++++++++++++the 5th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.540947294235229 
+the 0th iteration, Train loss 4.376895382784415 
+Epoch 5, Val loss 4.469568657875061 
+Epoch 5, Training loss 4.2517218157864995 
+reach better loss
++++++++++++++++++the 6th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.46764063835144 
+the 0th iteration, Train loss 4.245625955471094 
+Epoch 6, Val loss 4.417690277099609 
+Epoch 6, Training loss 4.134652231050574 
+reach better loss
++++++++++++++++++the 7th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.414948129653931 
+the 0th iteration, Train loss 4.130445172821266 
+Epoch 7, Val loss 4.368444085121155 
+Epoch 7, Training loss 4.015589194021363 
+reach better loss
++++++++++++++++++the 8th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.369075608253479 
+the 0th iteration, Train loss 4.015240935311801 
+Epoch 8, Val loss 4.346925938129425 
+Epoch 8, Training loss 3.912665503612463 
+reach better loss
++++++++++++++++++the 9th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.344574761390686 
+the 0th iteration, Train loss 3.911367062209309 
+Epoch 9, Val loss 4.327740788459778 
+Epoch 9, Training loss 3.800391611845597 
+reach better loss
++++++++++++++++++the 10th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.32559974193573 
+the 0th iteration, Train loss 3.7945589483648106 
+Epoch 10, Val loss 4.302702367305756 
+Epoch 10, Training loss 3.6767562990603238 
+reach better loss
++++++++++++++++++the 11th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.299790632724762 
+the 0th iteration, Train loss 3.6741771438847417 
+Epoch 11, Val loss 4.277423918247223 
+Epoch 11, Training loss 3.5530506199684697 
+reach better loss
++++++++++++++++++the 12th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.277775168418884 
+the 0th iteration, Train loss 3.5540893820748813 
+Epoch 12, Val loss 4.2737295746803285 
+Epoch 12, Training loss 3.426097303197004 
+reach better loss
++++++++++++++++++the 13th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.272208404541016 
+the 0th iteration, Train loss 3.424217407254205 
+Epoch 13, Val loss 4.280657374858857 
+Epoch 13, Training loss 3.3008860055951104 
++++++++++++++++++the 14th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.281023180484771 
+the 0th iteration, Train loss 3.3025660445724707 
+Epoch 14, Val loss 4.29041268825531 
+Epoch 14, Training loss 3.1728701902472456 
++++++++++++++++++the 15th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.291722667217255 
+the 0th iteration, Train loss 3.1701907126799873 
+Epoch 15, Val loss 4.296556830406189 
+Epoch 15, Training loss 3.029160762178725 
++++++++++++++++++the 16th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.297158586978912 
+the 0th iteration, Train loss 3.0281509938447373 
+Epoch 16, Val loss 4.321927833557129 
+Epoch 16, Training loss 2.8888711963874707 
++++++++++++++++++the 17th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.322893583774567 
+the 0th iteration, Train loss 2.893259077832319 
+Epoch 17, Val loss 4.333599877357483 
+Epoch 17, Training loss 2.738151624582816 
+
+
+
+artpedia
+training using whole dataset
+shuffle the training data before training
+Fri Mar  4 16:12:31 2022
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 9.845073461532593 
+the 0th iteration, Train loss 9.852046303127123 
+Epoch 0, Val loss 6.525652551651001 
+Epoch 0, Training loss 6.501783986022507 
+reach better loss
++++++++++++++++++the 1th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 6.505764436721802 
+the 0th iteration, Train loss 6.481284483619358 
+Epoch 1, Val loss 5.419724440574646 
+Epoch 1, Training loss 5.38863710389621 
+reach better loss
++++++++++++++++++the 2th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 5.415786361694336 

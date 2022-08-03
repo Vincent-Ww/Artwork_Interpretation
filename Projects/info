@@ -1,0 +1,5 @@
+作者训练时间：
+many thanks for your interest in this work. Memory consumption and training time depend greatly on whether you are in the XE step or in the RL finetuning step. We were training the model on a single 2080Ti. During XE, a single epoch was taking around 25 minutes (loading features from an SSD), while during RL finetuning it was taking around 3.5-4 hours. Using early stopping, the model was doing around 13 epochs in XE stage and around 20 epochs in RL before reaching the patience. So, at least in our setting, a full training was taking around 3 days.
+
+
+

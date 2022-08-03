@@ -1,0 +1,162 @@
+
+
+
+artpedia
+training using whole dataset
+shuffle the training data before training
+Mon Apr 11 17:01:52 2022
++++++++++++++++++the 0th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 11.54636526107788 
+the 50th iteration, Val loss 10.785123443603515 
+the 100th iteration, Val loss 8.937187433242798 
+Epoch 0, Val loss 7.365721821784973 
+Epoch 0, Training loss 7.284771705019301 
+reach better loss
++++++++++++++++++the 1th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 7.32855384349823 
+the 50th iteration, Val loss 6.215107035636902 
+the 100th iteration, Val loss 5.737730598449707 
+Epoch 1, Val loss 5.487744975090027 
+Epoch 1, Training loss 5.458750925202301 
+reach better loss
++++++++++++++++++the 2th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 5.481535625457764 
+the 50th iteration, Val loss 5.22693190574646 
+the 100th iteration, Val loss 5.042940092086792 
+Epoch 2, Val loss 4.940156149864197 
+Epoch 2, Training loss 4.899089250011721 
+reach better loss
++++++++++++++++++the 3th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.937398910522461 
+the 50th iteration, Val loss 4.823427057266235 
+the 100th iteration, Val loss 4.732802128791809 
+Epoch 3, Val loss 4.684739303588867 
+Epoch 3, Training loss 4.606006166209346 
+reach better loss
++++++++++++++++++the 4th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.686775159835816 
+the 50th iteration, Val loss 4.631729006767273 
+the 100th iteration, Val loss 4.5923155546188354 
+Epoch 4, Val loss 4.563301420211792 
+Epoch 4, Training loss 4.4377632244773535 
+reach better loss
++++++++++++++++++the 5th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.561666202545166 
+the 50th iteration, Val loss 4.543649935722351 
+the 100th iteration, Val loss 4.515281724929809 
+Epoch 5, Val loss 4.502697443962097 
+Epoch 5, Training loss 4.331768263941226 
+reach better loss
++++++++++++++++++the 6th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.501588249206543 
+the 50th iteration, Val loss 4.486135053634643 
+the 100th iteration, Val loss 4.468808841705322 
+Epoch 6, Val loss 4.454464054107666 
+Epoch 6, Training loss 4.232122376345206 
+reach better loss
++++++++++++++++++the 7th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.4544052362442015 
+the 50th iteration, Val loss 4.433297872543335 
+the 100th iteration, Val loss 4.411577892303467 
+Epoch 7, Val loss 4.403305101394653 
+Epoch 7, Training loss 4.132695396741231 
+reach better loss
++++++++++++++++++the 8th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.402219200134278 
+the 50th iteration, Val loss 4.39794442653656 
+the 100th iteration, Val loss 4.385146808624268 
+Epoch 8, Val loss 4.362408447265625 
+Epoch 8, Training loss 4.039224230724832 
+reach better loss
++++++++++++++++++the 9th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.362913370132446 
+the 50th iteration, Val loss 4.352783250808716 
+the 100th iteration, Val loss 4.3428995370864865 
+Epoch 9, Val loss 4.329665553569794 
+Epoch 9, Training loss 3.941983862199645 
+reach better loss
++++++++++++++++++the 10th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.3303492069244385 
+the 50th iteration, Val loss 4.3357083916664125 
+the 100th iteration, Val loss 4.30689914226532 
+Epoch 10, Val loss 4.304993855953216 
+Epoch 10, Training loss 3.853924036026001 
+reach better loss
++++++++++++++++++the 11th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.304006350040436 
+the 50th iteration, Val loss 4.30273916721344 
+the 100th iteration, Val loss 4.291350162029266 
+Epoch 11, Val loss 4.276004457473755 
+Epoch 11, Training loss 3.7624951808348945 
+reach better loss
++++++++++++++++++the 12th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.276308691501617 
+the 50th iteration, Val loss 4.274485564231872 
+the 100th iteration, Val loss 4.2654111862182615 
+Epoch 12, Val loss 4.267118585109711 
+Epoch 12, Training loss 3.6877443254857822 
+reach better loss
++++++++++++++++++the 13th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.271862173080445 
+the 50th iteration, Val loss 4.260387361049652 
+the 100th iteration, Val loss 4.242368674278259 
+Epoch 13, Val loss 4.240313065052033 
+Epoch 13, Training loss 3.585155675376671 
+reach better loss
++++++++++++++++++the 14th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.239067327976227 
+the 50th iteration, Val loss 4.236311757564545 
+the 100th iteration, Val loss 4.232115602493286 
+Epoch 14, Val loss 4.230518424510956 
+Epoch 14, Training loss 3.4942166062368862 
+reach better loss
++++++++++++++++++the 15th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.227502024173736 
+the 50th iteration, Val loss 4.232670843601227 
+the 100th iteration, Val loss 4.228200280666352 
+Epoch 15, Val loss 4.232818126678467 
+Epoch 15, Training loss 3.4128921826680503 
++++++++++++++++++the 16th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.233285045623779 
+the 50th iteration, Val loss 4.229573357105255 
+the 100th iteration, Val loss 4.227954864501953 
+Epoch 16, Val loss 4.218254661560058 
+Epoch 16, Training loss 3.317040761311849 
+reach better loss
++++++++++++++++++the 17th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.221623206138611 
+the 50th iteration, Val loss 4.226708948612213 
+the 100th iteration, Val loss 4.220532035827636 
+Epoch 17, Val loss 4.213961827754974 
+Epoch 17, Training loss 3.220562432123267 
+reach better loss
++++++++++++++++++the 18th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.214846754074097 
+the 50th iteration, Val loss 4.23002108335495 
+the 100th iteration, Val loss 4.224454462528229 
+Epoch 18, Val loss 4.215644752979278 
+Epoch 18, Training loss 3.1277730965959853 
++++++++++++++++++the 19th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.217552888393402 
+the 50th iteration, Val loss 4.2303702473640445 
+the 100th iteration, Val loss 4.2337352395057675 
+Epoch 19, Val loss 4.224898862838745 
+Epoch 19, Training loss 3.044021406035492 
++++++++++++++++++the 20th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.223589968681336 
+the 50th iteration, Val loss 4.246362280845642 
+the 100th iteration, Val loss 4.230340969562531 
+Epoch 20, Val loss 4.2389094710350035 
+Epoch 20, Training loss 2.9513069356697192 
++++++++++++++++++the 21th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.241735172271729 
+the 50th iteration, Val loss 4.250709044933319 
+the 100th iteration, Val loss 4.248231971263886 
+Epoch 21, Val loss 4.258100664615631 
+Epoch 21, Training loss 2.867178199947744 
++++++++++++++++++the 22th Epoch+++++++++++++++++++
+the 0th iteration, Val loss 4.2609671473503115 
+the 50th iteration, Val loss 4.255808770656586 
+the 100th iteration, Val loss 4.26246817111969 
+Epoch 22, Val loss 4.2571593761444095 
+Epoch 22, Training loss 2.765361087909643 

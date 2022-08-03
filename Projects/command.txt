@@ -1,0 +1,25 @@
+python train.py --exp_name m2_transformer --batch_size 50 --m 40 --head 8 --warmup 10000 --features_path ../Dataset/coco/coco_detection.hdf5 --annotation_folder ../Dataset/coco/annotations/
+
+
+python train_origin.py --exp_name grid_m2_tr --batch_size 50 --m 40 --head 8 --warmup 10000 --features_path ../Dataset/coco/coco_grid_feats.hdf5 --annotation_folder ../Dataset/coco/annotations/
+
+
+
+
+
+# test 
+
+# region std
+python artpedia_predict.py --ptm "saved_models_region_std_apft/region_std_apft_last_17epoch.pth"
+
+# grid std
+python artpedia_predict.py --ptm "saved_models_grid_std_apft/grid_std_last_15epoch.pth"
+
+# region m2
+python artpedia_predict.py --ptm "saved_models_regionm2_apft/artpedia_finetune_mulcap.pth"
+
+# grid m2
+python artpedia_predict.py --ptm "saved_models_grid_m2_apft/grid_m2_tr_last_15epoch.pth" > output_logs/generated_captions/gencaps_apft_gridm2.log
+
+# grid m2rst
+python artpedia_predict.py --ptm "saved_models_grid_m2rst_apft/grid_m2_tr_last_18epoch.pth" > output_logs/generated_captions/gencaps_apft_gridm2rst.log
